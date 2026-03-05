@@ -37,3 +37,14 @@ This repository demonstrates continuous learning, structured problem-solving, an
 - **Tools:** Power Query, PowerBI, ZommCharts Drilldown Visuals
 - **Documentation** [View Pbixfile, dataset, brief and pdf image →](https://drive.google.com/drive/folders/1PuVNebyP6_3Mcqf6qTLfTck2r1d5mxnn?usp=drive_link)
 - **Repository:** [View Project →](https://github.com/Opelobami/Animal-shelters-operations)
+
+---
+
+### PharmaData Analytics
+**A Power BI analytics solution that dissects revenue, margin, and geographic performance across a multi-country European pharmacy chain, turning complex distributor data into clear, location-aware business strategy.**
+
+- **Tools:** Power Query, PowerBI, ZommCharts Drilldown Visuals
+- **Documentation** [View Pbixfile, dataset, brief and pdf image →](https://drive.google.com/drive/folders/1YCqcoh8it--WT6FbKBNxzcV8TzbebhYk?usp=drive_link)
+- **Repository:** [View Project →](https://github.com/Opelobami/Pharma-Data-Analytics)
+
+---
