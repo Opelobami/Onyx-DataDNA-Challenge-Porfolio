@@ -9,11 +9,31 @@ The goal of this repository is to showcase my ability to:
 - Communicate findings clearly through dashboards and reports
 
 Each monthly submission includes:
-- Problem statement
- Data cleaning and transformation steps
-- KPI definitions
-- Analytical approach
-- Visualizations / dashboard screenshots
-- Key insights and business recommendations
+- Power BI report detailing
+  - Data cleaning and transformation steps
+  - Data modeling
+  - KPI definitions
+  - Visualizations / dashboard screenshots
+  - Key insights and business recommendations
 
-This repository demonstrates continuous learning, structured problem-solving, and applied analytics in real-world business contexts.
+This repository demonstrates continuous learning, structured problem-solving, and applied analytics in real-world business contexts
+
+---
+
+## 🧩 Featured Projects  
+
+### E-commerce Analytics
+**A Power BI analytics solution that transforms raw e-commerce transaction data into actionable intelligence on loyal customers, channel performance, and revenue growth**
+
+- **Tools:** Power Query, PowerBI, ZommCharts Drilldown Visuals
+- **Documentation** [View Pbixfile, dataset, brief and pdf image →](https://drive.google.com/drive/folders/18R6xIbjaIPja1TdwujAU9bHbUeLH2tp1?usp=drive_link)
+- **Repository:** [View Project →](https://github.com/Opelobami/E-commerce-Analytics-Dashboard)
+
+---
+
+### Animal Shelter Operations
+**A Power BI analytics solution that turns shelter operations data into life-saving decisions — optimizing adoptions, reducing length of stay, and improving live release outcomes.**
+
+- **Tools:** Power Query, PowerBI, ZommCharts Drilldown Visuals
+- **Documentation** [View Pbixfile, dataset, brief and pdf image →](https://drive.google.com/drive/folders/1PuVNebyP6_3Mcqf6qTLfTck2r1d5mxnn?usp=drive_link)
+- **Repository:** [View Project →](https://github.com/Opelobami/Animal-shelters-operations)
