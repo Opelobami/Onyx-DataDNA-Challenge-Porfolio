@@ -54,6 +54,7 @@ This repository demonstrates continuous learning, structured problem-solving, an
 
 - **Tools:** Power Query, PowerBI, ZommCharts Drilldown Visuals
 - **Documentation** [View Pbixfile, dataset, brief and pdf image →](https://drive.google.com/drive/folders/1h0o__4EHKsW3FI8TjsdjbTRpp5tZXQKU?usp=drive_link)
+- **Dashboard Visualization** [Interact with the report →](https://app.powerbi.com/view?r=eyJrIjoiZjA0ODA5MmItZWIwYy00YTczLWIwZDktMzM3MjM5NDE0ZjIyIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 - **Repository:** [View Project →](https://github.com/Opelobami/Enterprise-Sales-Pipeline-Analytics)
 
 ---
